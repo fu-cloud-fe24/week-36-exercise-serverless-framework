@@ -21,6 +21,7 @@ Förslag på olika typer av APIer:
 * Recept-API
 * Rese-API
 * Event-API
+* Rollspels-API
 * m.m. möjligheterna är oändliga
 
 Tänk dock på att era Lambdafunktioner fortfarande inte har något minne, så en grundarray innehållandes "startdatan" behöver finnas i programmet.
